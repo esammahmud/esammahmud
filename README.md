@@ -34,4 +34,4 @@
 <a href="https://github.com/esammahmud/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esammahmud&layout=compact&langs_count=8&card_width=320" />
 </a>
-<img align="left" alt="coding" height = "350"width="923"  src="https://repository-images.githubusercontent.com/607211513/e106a1ce-1af9-41c8-8f4d-31db1976c599">
+<img margin-top = "20px"align="left" alt="coding" height = "350"width="923"  src="https://repository-images.githubusercontent.com/607211513/e106a1ce-1af9-41c8-8f4d-31db1976c599">
